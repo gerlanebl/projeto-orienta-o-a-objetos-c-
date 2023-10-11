@@ -1,6 +1,6 @@
 ## RELATÓRIO SEMANAL 01
 #### RESUMO:
-Durante esta semana, avançou-se significativamente no desenvolvimento do projeto de gerenciamento de estoque para a Gagelog. O foco principal foi a criação das classes essenciais, definição dos atributos e implementação das ações (métodos) necessárias para atender aos requisitos do projeto.
+Durante esta semana, avançou-se significativamente no desenvolvimento do projeto de gerenciamento de estoque para a Gagelog. O foco principal foi a criação das classes essenciais, definição dos atributos e implementação das ações (métodos) necessárias para atender aos requisitos do projeto. Foi iniciado o codigo com classe e atributos.
 
   
 #### ATIVIDADES REALIZADAS:
