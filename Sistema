@@ -6,15 +6,15 @@ A Gagelog enfrenta desafios significativos em seu sistema manual de controle de 
 
 **Objetivos do projeto:**
 Os objetivos deste projeto são:
-*Cadastrar novos produtos no sistema.
-*Armazenar produtos de forma eficiente no estoque.
-*Registrar e controlar a quantidade de produtos que entram e saem do estoque.
-*Apresentar um balanço claro e organizado dos produtos.
+* Cadastrar novos produtos no sistema.
+* Armazenar produtos de forma eficiente no estoque.
+* Registrar e controlar a quantidade de produtos que entram e saem do estoque.
+* Apresentar um balanço claro e organizado dos produtos.
 
 **Requisitos do sistema:**
 O sistema deve:
-*Permitir o cadastro eficiente de novos produtos.
-*Gerenciar o armazenamento de produtos no estoque de forma inteligente.
-*Controlar rigorosamente as entradas e saídas de cada produto, evitando perdas.
-*Fornecer um balanço claro e atualizado dos produtos no estoque.
+* Permitir o cadastro eficiente de novos produtos.
+* Gerenciar o armazenamento de produtos no estoque de forma inteligente.
+* Controlar rigorosamente as entradas e saídas de cada produto, evitando perdas.
+* Fornecer um balanço claro e atualizado dos produtos no estoque.
 
