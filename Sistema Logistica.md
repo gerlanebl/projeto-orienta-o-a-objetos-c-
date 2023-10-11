@@ -1,4 +1,4 @@
-# SISTEMA DE GERENCIAMENTO DE ESTOQUE LOGISTICA:#
+# SISTEMA DE GERENCIAMENTO DE ESTOQUE LOGISTICA:
 ### *Introdução ao projeto:*
 O presente trabalho aborda o desenvolvimento de um sistema de gerenciamento de estoque em logística, realizado em C# com aplicação dos princípios aprendidos de Orientação a Objetos. O projeto visa atender às necessidades da empresa Gagelog, uma pequena empresa de logística que busca organizar seu estoque para acompanhar seu potencial crescimento.
 
