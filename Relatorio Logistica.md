@@ -20,3 +20,20 @@ Durante esta semana, avançou-se significativamente no desenvolvimento do projet
  
   #### CONCLUSÃO:
   A semana foi produtiva, e o projeto está avançando conforme o planejado. A criação das classes e a definição dos atributos e métodos estabeleceram uma base sólida para o desenvolvimento contínuo. 
+
+## RELATÓRIO SEMANAL 02
+
+#### RESUMO:
+Na segunda semana de trabalho no projeto de gerenciamento de estoque para a Gagelog as atividades centraram-se na implementação dos métodos definidos, além de testes iniciais para garantir a funcionalidade básica do código.
+
+#### ATIVIDADES REALIZADAS:
+
+* #### Implementação dos Métodos:
+  Alguns dos métodos definidos na semana anterior foram alterados para reduzir o tamano do codigo conforme orientado pelo professor. foi feito codificação das funcionalidades, como atualização de nome e preço do produto, cadastro de novos produtos e geração de balanço de estoque imprimindo relatorio com valor total dos produtos adicionados ao estoque.
+  A classe do programa GerenciamentoEstoque esta sendo implementada finalizando esta semana o sistema de gerenciamento da Gagelog.
+
+* #### Testes Iniciais:
+  Foram conduzidos testes preliminares para verificar a integridade e eficácia dos métodos implementados. Esses testes foram essenciais para identificar possíveis bugs e garantir que as operações básicas estivessem funcionando conforme o esperado.
+
+#### CONCLUSÃO:
+A semana foi marcada por avanços significativos na implementação prática do projeto. Os métodos essenciais foram incorporados ao código, e os testes iniciais forneceram insights valiosos para aprimoramentos. O codigo de gerenciamento ja esta sendo implementado.
